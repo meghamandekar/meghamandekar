@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meghamandekar&label=Profile%20views&color=0e75b6&style=flat" alt="meghamandekar" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java, JavaScript, MERN (MongoDB, ExpressJS, ReactJS, NodeJS)**
 
-- 👨‍💻 All of my projects are available at [https://660fd93ac110ff00823e65e9--amazing-naiad-26f68b.netlify.app/](https://660fd93ac110ff00823e65e9--amazing-naiad-26f68b.netlify.app/)
+- 👨‍💻 All of my projects are available at [Here](https://660fd93ac110ff00823e65e9--amazing-naiad-26f68b.netlify.app/)
+
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/megha-mandekar-247782271/" target="_blank"> LinkedIn</a>
 
