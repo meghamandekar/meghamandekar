@@ -7,7 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://660fd93ac110ff00823e65e9--amazing-naiad-26f68b.netlify.app/](https://660fd93ac110ff00823e65e9--amazing-naiad-26f68b.netlify.app/)
 
-- 📫 How to reach me **in/megha-mandekar-247782271/**
+- 📫 How to reach me <a href="https://www.linkedin.com/in/megha-mandekar-247782271/" target="_blank"> LinkedIn</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
